@@ -1,2 +1,2 @@
 # BANKING-SYSTEM
-Programming used: PYTHON
+Programming language used: PYTHON
